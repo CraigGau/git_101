@@ -54,9 +54,10 @@ movies %>%
 
 # --- Report favourites --------------------------------------------------------
 print("Tom's favourite movie is 'The Big Lebowski'")
+print("Dave's favourite movie is '1984'")
 
 # TODO Declare your own favourite with a print statement here...
 print("Craig's favourite movie is 'As good as it gets' ")
-
+print("samez here")
 
 # --- End ----------------------------------------------------------------------
