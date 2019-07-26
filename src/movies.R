@@ -56,6 +56,7 @@ movies %>%
 print("Tom's favourite movie is 'The Big Lebowski'")
 
 # TODO Declare your own favourite with a print statement here...
+print("Craig's favourite movie is 'As good as it gets' ")
 
 
 # --- End ----------------------------------------------------------------------
